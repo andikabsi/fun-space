@@ -1,4 +1,5 @@
 # Hitung Luas Segitiga sederhana
+
 def luas_segitiga():
     a = int(input("Masukkan alas segitiga: "))
     t = int(input("Masukkan tinggi segitiga: "))
