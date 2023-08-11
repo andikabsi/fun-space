@@ -1,8 +1,8 @@
-# Hitung Luas Segitiga 
+# Hitung Luas Segitiga siku siku
 
 def luas_segitiga():
     a = int(input("Masukkan alas segitiga: "))
-    t = int(input("Masukkan tinggi segitiga: "))
+    t = int(input("Masukkan tingggit checkout -b <nama-fitur>i segitiga: "))
     luas = a * t / 2
     print("Luas segitiga adalah: ", luas)
 
